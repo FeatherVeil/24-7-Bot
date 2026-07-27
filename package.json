@@ -1,0 +1,10 @@
+{
+  "name": "afkbot",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.37.1"
+  }
+}
